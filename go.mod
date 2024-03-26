@@ -1,4 +1,4 @@
-module app-cli
+module ipserverlookup
 
 go 1.22.1
 

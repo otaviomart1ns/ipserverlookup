@@ -1,8 +1,8 @@
 package main
 
 import (
-	"ipserverlookup/app"
 	"fmt"
+	"ipserverlookup/app"
 	"log"
 	"os"
 )
