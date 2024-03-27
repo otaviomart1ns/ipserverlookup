@@ -12,7 +12,7 @@ This repository contains a Go (Golang) Command Line Interface (CLI) application 
 Ensure you have Go installed on your machine. Clone this repository and build the application using the following commands:
 
 ```bash
-git clone https://github.com/otaviomart1ns/search_ips_go.git
+git clone https://github.com/otaviomart1ns/ipserverlookup.git
 cd search_ips_go
 go build -o ipserverlookup
 ```
