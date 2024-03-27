@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app-cli/app"
+	"ipserverlookup/app"
 	"fmt"
 	"log"
 	"os"
