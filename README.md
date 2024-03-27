@@ -13,7 +13,7 @@ Ensure you have Go installed on your machine. Clone this repository and build th
 
 ```bash
 git clone https://github.com/otaviomart1ns/ipserverlookup.git
-cd search_ips_go
+cd ipserverlookup
 go build -o ipserverlookup
 ```
 ## Usage
